@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntonioGrcMtz
-- 👀 I’m interested in Software Automation
+- 👀 I’m interested in Software Test Automation Frameworks
 - 🌱 I’m currently learning Cypress
-- 💞️ I’m looking to collaborate on Automation Frameworks
+- 💞️ I’m looking to collaborate on Test Automation Frameworks
 - 📫 Reach me at: antoniogarcia.martinezmx@gmail.com
 
 <!---
